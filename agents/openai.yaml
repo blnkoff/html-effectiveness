@@ -1,0 +1,3 @@
+interface:
+  display_name: "HTML Effectiveness"
+  short_description: "Turn dense specs, reviews, reports, and prototypes into useful self-contained HTML artifacts."
